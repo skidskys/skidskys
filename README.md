@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/skidskys">
+    <p align="center"> <img src="https://gpvc.arturio.dev/1x6" alt="xeny" /> </p>
     <img src="https://discord.c99.nl/widget/theme-4/222687871415484416.png"/>
      </a>
     <img src="https://discord.c99.nl/widget/theme-4/843465751109435443.png"/>
