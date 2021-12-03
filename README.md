@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/skidskys">
     <p align="center"> <img src="https://gpvc.arturio.dev/skidskys" alt="drknz" /> </p>
+    </a>
     <img src="https://discord.c99.nl/widget/theme-4/843465751109435443.png"/>
      </a>
     <img src="https://discord.c99.nl/widget/theme-4/852653136463527987.png"/>
